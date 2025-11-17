@@ -7,7 +7,7 @@ on:
     - cron: '0 6 * * *'
   push:
     branches:
-      - master
+      - MOD
 
 jobs:
   build:
@@ -30,7 +30,7 @@ jobs:
 
       - name: Sync with upstream
         run: |
-          git checkout master
+          git checkout MOD
           git remote add upstream https://github.com/blackmatrix7/ios_rule_script.git
           git fetch --depth=1 upstream
           mkdir -p ./backup/
@@ -72,7 +72,7 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add --all
             git commit -m "${{ env.BUILDTIME }} for OCD"
-            git push origin master
+            git push origin MOD
           else
             echo "No changes to commit"
           fi
