@@ -10742,8 +10742,10 @@ login.microsoftonline.com
 +.gofit.ac.uk
 +.gofucker.com
 +.gofuckmenow.com
++.gogservices.com
 +.gogstatics.com
 +.gog.com
++.gogalaxy.com
 +.gogeo.ac.uk
 +.gogettaxi.org
 +.gogle.com
