@@ -8,6 +8,7 @@
 +.gc.apple.com
 +.icloudapple.cn
 +.icloudcontent.com
++.icloudcontent.com.cn
 +.icloudisupport.com
 +.icloudsandbox.com
 +.icloud.apple.com
