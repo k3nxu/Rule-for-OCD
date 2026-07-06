@@ -45,7 +45,6 @@ hpstore.corpmerchandise.com
 hub.slarker.me
 i.jeded.com
 imperial.insendi.com
-ingest.applestudies.com
 lgelectronics.122.2o7.net
 linkedin.sc.omtrdc.net
 livepatreonmarketing.pantheonsite.io
@@ -2006,6 +2005,7 @@ login.microsoftonline.com
 +.applepay.wang
 +.applestore.net
 +.applestore.wang
++.applestudies.com
 +.appleusa.net
 +.apple.ae
 +.apple.at
@@ -2535,6 +2535,7 @@ login.microsoftonline.com
 +.atlassiandev.net
 +.atlassian.com
 +.atlassian.net
++.atmeta.com
 +.atokara.jp
 +.atom.io
 +.atomyze.ru
@@ -2915,6 +2916,7 @@ login.microsoftonline.com
 +.aziani.com
 +.aznude.com
 +.azubu.tv
++.azureapi.net
 +.azuredevicesint.net
 +.azuredevices.net
 +.azuredns.com
@@ -2950,6 +2952,7 @@ login.microsoftonline.com
 +.azureserviceprofiler.com
 +.azuresmartspaces.net
 +.azurestackvalidation.com
++.azurestaticapps.net
 +.bcdn.net
 +.beroland.net
 +.bok.africa
