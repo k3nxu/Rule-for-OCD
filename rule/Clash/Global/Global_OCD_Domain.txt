@@ -1,5 +1,6 @@
 1password.drift.click
 adobeereg.com
+agb9r0ad.qllfkl.com
 angle.com.tw
 apip.videomarket.jp
 apple.com.akadns.net
@@ -40,6 +41,7 @@ firstsearch.oclc.org
 githubapi.arkoselabs.com
 gogcdnlumen.secure2.footprint.net
 gog.qtlglb.com
+hb4bbbbb.pmhcjk.com
 holoxx.f5.si
 hpstore.corpmerchandise.com
 hub.slarker.me
@@ -51,6 +53,7 @@ livepatreonmarketing.pantheonsite.io
 medoneeducation.thieme.com
 muse.jhu.edu
 nationalaustraliaban.tt.omtrdc.net
+nbbb1bb7.pmhcjk.com
 ntpc.colorado.edu
 ntp.time.nl
 ntp0.ntpservers.net
@@ -73,6 +76,7 @@ practivate.adobe.newoa
 practivate.adobe.ntp
 publicuspingsx.api.clonoth.com
 pushapple.com.akadns.net
+q676790b.pmhcjk.com
 qualcomm.sc.omtrdc.net
 roovzalaunches.appsflyersdk.com
 roovza.inapps.appsflyersdk.com
@@ -1428,7 +1432,6 @@ login.microsoftonline.com
 +.alexanderlondoncollege.ac.uk
 +.alexanderstreet.com
 +.alfa.me
-+.alfabank.oavdo.amc
 +.alfabank.ru
 +.alfabank.st
 +.alfadirect.ru
@@ -4484,6 +4487,7 @@ login.microsoftonline.com
 +.bnef.com
 +.bntrace.com
 +.bnu.ac.uk
++.bnxz.net
 +.boa.ac.uk
 +.bobble.ac.uk
 +.boboporn.com
@@ -5028,6 +5032,7 @@ login.microsoftonline.com
 +.byjhd.com
 +.bymj.io
 +.byspotify.com
++.bystys.tech
 +.bytick.com
 +.byzantineahrbcentre.ac.uk
 +.byzantium.ac.uk
@@ -5634,6 +5639,7 @@ login.microsoftonline.com
 +.chatango.com
 +.chatgpt.com
 +.chatgpt.livekit.cloud
++.chatgpt.site
 +.chatgptvideo.xyz
 +.chatgptvideob.buzz
 +.chatsex.xxx
@@ -14363,6 +14369,7 @@ login.microsoftonline.com
 +.khotruyentranhx.com
 +.kiad.ac.uk
 +.kichikuou.com
++.kick.com
 +.kickporn.com
 +.kickshatchannel.com
 +.kicksnike1.com
@@ -14904,6 +14911,11 @@ login.microsoftonline.com
 +.lightxxxtube.com
 +.lihe.ac.uk
 +.lihksnap.com
++.likevideo.com
++.likee.com
++.likeeapp.ru
++.likeevideo.com
++.likeevideo.ru
 +.likeseiyu.com
 +.liketruyen.net
 +.liketwice.com
@@ -18852,6 +18864,7 @@ login.microsoftonline.com
 +.overthumbs.com
 +.owlelearning.ac.uk
 +.owsc.ac.uk
++.owxd.xyz
 +.ox.ac.uk
 +.oxademy.ac.uk
 +.oxahsc.ac.uk
@@ -25043,6 +25056,7 @@ login.microsoftonline.com
 +.uxbridgecollege.ac.uk
 +.uxthemes.com
 +.uxxxporn.com
++.uxzw.club
 +.uyghurcanadian.ca
 +.vav.com
 +.vhas.com
@@ -27807,6 +27821,7 @@ login.microsoftonline.com
 +.ysvia.com
 +.yswet.com
 +.ysxmm.com
++.yucf.top
 +.yuenuge113.xyz
 +.yuenuge18.cc
 +.yugiohcard.com
