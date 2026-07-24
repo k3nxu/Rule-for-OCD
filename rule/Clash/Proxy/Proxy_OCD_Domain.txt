@@ -5658,6 +5658,7 @@ voice.telephony.goog
 +.toh.info
 +.token.im
 +.tokenlon.im
++.tokenplus.app
 +.tokyo247.com
 +.tokyohot.com
 +.tokyocn.com
@@ -6690,6 +6691,7 @@ voice.telephony.goog
 +.zengjinyan.org
 +.zenmate.com
 +.zenmate.com.ru
++.zenmux.ai
 +.zerohedge.com
 +.zeronet.io
 +.zeutch.com
