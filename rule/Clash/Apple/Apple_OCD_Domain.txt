@@ -1187,7 +1187,6 @@ peventsdelivery.akamaized.net
 +.applepaysupplies.tv
 +.applewallet.com
 +.applewallet.tv
-+.appsto.re
 +.appstore.co.id
 +.appstore.com
 +.appstore.hk
@@ -1501,6 +1500,7 @@ peventsdelivery.akamaized.net
 +.applemusic.com
 +.appledns.net
 +.apple.news
++.appsto.re
 +.digicert.com
 +.applecloudkit.com
 +.appleicloud.cn
