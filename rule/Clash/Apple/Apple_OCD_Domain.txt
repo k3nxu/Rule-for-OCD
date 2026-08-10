@@ -1462,6 +1462,7 @@ peventsdelivery.akamaized.net
 +.wwwipodlounge.com
 +.wwwmacbookair.com
 +.apple.comscoreresearch.com
++.apple.news
 +.appleenews.com
 +.applemusic.berlin
 +.applemusic.co
@@ -1499,7 +1500,6 @@ peventsdelivery.akamaized.net
 +.wwwapplemusic.com
 +.applemusic.com
 +.appledns.net
-+.apple.news
 +.appsto.re
 +.digicert.com
 +.applecloudkit.com
