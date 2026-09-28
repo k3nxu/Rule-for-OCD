@@ -871,6 +871,7 @@ voice.telephony.goog
 +.cspan.org
 +.cspanvideo.org
 +.c.gle
++.c.gompulse.net
 +.c.mi.com
 +.c100tibet.org
 +.c2cx.com
@@ -4605,6 +4606,7 @@ voice.telephony.goog
 +.qiwen.lu
 +.qkshare.com
 +.qmp4.com
++.qobuz.com
 +.qoos.com
 +.qpoe.com
 +.qq.co.za
@@ -6087,6 +6089,7 @@ voice.telephony.goog
 +.vansky.com
 +.vaticannews.va
 +.vatn.org
++.vava8.com
 +.vbstatic.co
 +.vcfonline.org
 +.vcfbuilder.org
