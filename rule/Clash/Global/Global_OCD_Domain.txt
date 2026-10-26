@@ -284,6 +284,7 @@ login.microsoftonline.com
 +.1password.ca
 +.1password.co
 +.1password.community
++.1password.dev
 +.1password.eu
 +.1password.io
 +.1passwordservices.com
@@ -3787,7 +3788,6 @@ login.microsoftonline.com
 +.bijukujo.club
 +.bikaa.xyz
 +.bikac.xyz
-+.bikaios.xyz
 +.bil.ac.uk
 +.bilborough.ac.uk
 +.bileta.ac.uk
@@ -5570,6 +5570,10 @@ login.microsoftonline.com
 +.cdnvideohub.com
 +.cdnxxxproxy.co
 +.cdnxxxproxy.xyz
++.cdpred.services
++.cdprojekt.com
++.cdprojekt.red
++.cdprojektred.com
 +.cdrc.ac.uk
 +.cdtartai.ac.uk
 +.cdtcmp.ac.uk
@@ -6761,6 +6765,7 @@ login.microsoftonline.com
 +.cybercollege.ac.uk
 +.cybercrimecon.com
 +.cybermondaybeats4sale.com
++.cyberpunk.net
 +.cybersecuritycdt.ac.uk
 +.cybersecuritycdt.ac.uk
 +.cybersport.ru
@@ -7565,7 +7570,6 @@ login.microsoftonline.com
 +.distribution.qpdp1.net
 +.divas.com.uy
 +.diversityuk.ac.uk
-+.diwodiwo.xyz
 +.diyarbakirescort.com
 +.diyuser.buzz
 +.djkav.mom
@@ -15713,7 +15717,6 @@ login.microsoftonline.com
 +.mangahome.com
 +.mangoporn.net
 +.mangotporn.com
-+.manhuabika.com
 +.manhuagui.com
 +.manhub.com
 +.manhunt.net
@@ -18195,8 +18198,6 @@ login.microsoftonline.com
 +.nixos.wiki
 +.nixpkgs.org
 +.niziero.info
-+.njav.tv
-+.njavtv.com
 +.njncscotlandscolleges.ac.uk
 +.njpw.co.jp
 +.njpw1972.com
@@ -19772,6 +19773,7 @@ login.microsoftonline.com
 +.playfabapi.com
 +.playfamily.ru
 +.playforceone.com
++.playgwent.com
 +.playhearthstone.com
 +.playmation.com
 +.playmeow.com
@@ -24265,6 +24267,7 @@ login.microsoftonline.com
 +.thevirtualsexreview.com
 +.thewaltdisneycompany.com
 +.theweek.in
++.thewitcher.com
 +.thewomenslibrary.ac.uk
 +.thewonderful101.com
 +.theyxxx.com
@@ -26659,7 +26662,6 @@ login.microsoftonline.com
 +.wiisportsresort.com
 +.wiiugamepad.com
 +.wiivc.net
-+.wikawika.xyz
 +.wiki.gg
 +.wikia.nocookie.net
 +.wikia.org
@@ -27192,14 +27194,14 @@ login.microsoftonline.com
 +.xnd4ty0ojsqzfd.com
 +.xne1adjldbbpv.xn90ais
 +.xne1aigb.xnp1ai
-+.xnfiqs8s1bxp3anr7a.hk
-+.xnfiqs8s1bxp3anr7a.xnj6w193g
-+.xnfiqs8s1byzqyvl.hk
-+.xnfiqs8s1byzqyvl.xnj6w193g
++.xnfiq80y.hk
++.xnfiq80y.xnj6w193g
++.xnfiq80y3xbiwr.hk
++.xnfiq80y3xbiwr.xnj6w193g
++.xnfiq80y3xbiwrs0kiu9d.hk
++.xnfiq80y3xbiwrs0kiu9d.xnj6w193g
 +.xnfiqs8sxootzz.xnhxt814e
 +.xnflw351e.com
-+.xngdt08a.hk
-+.xngdt08a.xnj6w193g
 +.xnggle55da.com
 +.xngmq348bujlxrb.com
 +.xngmq92kd2rm1kx34a.com
@@ -27217,19 +27219,13 @@ login.microsoftonline.com
 +.xnm1abbbgjah.lol
 +.xnmts47c3w9b1qr.net
 +.xnmtswd61ejxq.com
-+.xnmxtq18a.hk
-+.xnmxtq18a.xnj6w193g
 +.xnpearsonenespaolbrb.com
 +.xnpssu7ci2j23mp9ny48b.hk
 +.xnpssu7ci2j23mp9ny48b.xnj6w193g
-+.xnpssu7cv61af1tcs59bnvd.hk
-+.xnpssu7cv61af1tcs59bnvd.xnj6w193g
++.xnpssu7ci3q5oge0ai91q.xnj6w193g
 +.xnpssu7cv61af44b.hk
 +.xnpssu7cv61af44b.xnj6w193g
-+.xnpssu7cv61ahw8aq79bztd.hk
-+.xnpssu7cv61ahw8aq79bztd.xnj6w193g
-+.xnpssu7cv61ahwcb1p2yk.hk
-+.xnpssu7cv61ahwcb1p2yk.xnj6w193g
++.xnpssu7cz8nr8ibkx1e8a.xnj6w193g
 +.xnq41am8x.com
 +.xnqhrx81fxh2a.xn55qx5d.hk
 +.xnqoq462m.com
@@ -27242,11 +27238,7 @@ login.microsoftonline.com
 +.xnuis17aj9kmuf.com
 +.xnuis44a.xnj6w193g
 +.xnurs05q.jp
-+.xnwcv22d.hk
-+.xnwcv22d.xnj6w193g
 +.xnwcvs22d.xnj6w193g
-+.xnwcvs22d1m.hk
-+.xnwcvs22d1m.xnj6w193g
 +.xnxqeu1ji09tzlg.biz
 +.xnxqeu1ji09tzlg.net
 +.xnxsq421m.com
@@ -28355,6 +28347,7 @@ login.microsoftonline.com
 +.111666.best
 +.123av.com
 +.123av.me
++.123av.org
 +.123rf.com
 +.12bet.com
 +.12vpn.com
@@ -28969,6 +28962,7 @@ login.microsoftonline.com
 +.bibliocommons.com
 +.bibox.com
 +.bic2011.org
++.bidobido.xyz
 +.biedian.me
 +.big.one
 +.bigfools.com
@@ -28978,6 +28972,8 @@ login.microsoftonline.com
 +.bignews.org
 +.bigone.com
 +.bigsound.org
++.bikaios.xyz
++.bikawebapp.com
 +.bild.de
 +.bilinovel.com
 +.biliworld.com
@@ -29795,6 +29791,7 @@ login.microsoftonline.com
 +.disquscdn.com
 +.ditinc.us
 +.divdyn.com
++.diwodiwo.xyz
 +.diyin.org
 +.dizhidizhi.com
 +.dizhuzhishang.com
@@ -30490,6 +30487,7 @@ login.microsoftonline.com
 +.g.kfd.me
 +.g0v.social
 +.g6hentai.com
++.ga.jspm.io
 +.gab.com
 +.gabia.net
 +.gabocorp.com
@@ -31038,6 +31036,7 @@ login.microsoftonline.com
 +.htx.com
 +.huayue.net
 +.huaglad.com
++.huakacomic.com
 +.huanghuagang.org
 +.huangyiyu.com
 +.huaren.us
@@ -31508,6 +31507,7 @@ login.microsoftonline.com
 +.kichikudoujinko.com
 +.kik.com
 +.killwall.com
++.kimootoko.net
 +.kindle4rss.com
 +.kindleren.com
 +.kingdomsalvation.org
@@ -31804,6 +31804,7 @@ login.microsoftonline.com
 +.mangafox.me
 +.mangaup.jp
 +.mangmang.run
++.manhuabika.com
 +.manhuaren.com
 +.maniash.com
 +.manicur4ik.ru
@@ -31972,6 +31973,7 @@ login.microsoftonline.com
 +.miniforum.org
 +.miningpoolhub.com
 +.ministrybooks.org
++.minkch.com
 +.minzhuhua.net
 +.minzhuzhanxian.com
 +.minzhuzhongguo.org
@@ -32331,6 +32333,9 @@ login.microsoftonline.com
 +.niu.moe
 +.niusnews.com
 +.njactb.org
++.njav.com
++.njav.tv
++.njavtv.com
 +.njuice.com
 +.nlfreevpn.com
 +.nmsl.website
@@ -32685,6 +32690,7 @@ login.microsoftonline.com
 +.phuquocservices.com
 +.piaotia.com
 +.piaotian.net
++.picaid.com
 +.picacomic.com
 +.picacomiccn.com
 +.picasaweb.com
@@ -32762,6 +32768,7 @@ login.microsoftonline.com
 +.plusbb.com
 +.pmatehunter.com
 +.pmates.com
++.pokakito.com
 +.po2b.com
 +.pobieramy.top
 +.podbean.com
@@ -33975,6 +33982,7 @@ login.microsoftonline.com
 +.tinypic.com
 +.tinyurl.com
 +.tipas.net
++.tipatipa.xyz
 +.tistory.com
 +.tkcscollins.com
 +.tl.gd
@@ -34667,6 +34675,7 @@ login.microsoftonline.com
 +.whyx.org
 +.widevine.com
 +.wikaba.com
++.wikawika.xyz
 +.wiki.kfd.me
 +.wikia.com
 +.wikibooks.org
@@ -35085,6 +35094,7 @@ login.microsoftonline.com
 +.zophar.net
 +.zorrovpn.com
 +.zozotown.com
++.zozovideo.com
 +.zpn.im
 +.zsdxzk.com
 +.zspeeder.me
